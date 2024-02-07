@@ -1,0 +1,11 @@
+python-multipart
+openpyxl
+fastapi
+uvicorn[standard]
+pydantic
+pyngrok
+joblib
+pandas
+transformers
+Pillow
+python-multipart

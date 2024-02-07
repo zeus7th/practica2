@@ -1,0 +1,9 @@
+python-multipart
+openpyxl
+fastapi
+uvicorn[standard]
+pydantic
+joblib
+pandas
+transformers
+Pillow
